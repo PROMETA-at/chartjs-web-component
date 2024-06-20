@@ -23,8 +23,13 @@
   "homepage": "https://github.com/PROMETA-at/chartjs-web-component#readme",
   "dependencies": {
     "chart.js": "^4.4.3",
+    "chartjs-adapter-date-fns": "^3.0.0",
     "chartjs-plugin-annotation": "^3.0.1",
     "chartjs-plugin-autocolors": "^0.2.2",
     "chartjs-plugin-zoom": "^2.0.1"
+  },
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js"
   }
 }
