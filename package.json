@@ -1,0 +1,30 @@
+{
+  "name": "@prometa/chartjs-web-component",
+  "version": "1.0.0",
+  "description": "A web component wrapper for Chart.js, enabling easy integration of Chart.js charts using custom HTML elements.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROMETA-at/chartjs-web-component.git"
+  },
+  "keywords": [
+    "chartjs",
+    "web-component",
+    "wrapper"
+  ],
+  "author": "Prometa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PROMETA-at/chartjs-web-component/issues"
+  },
+  "homepage": "https://github.com/PROMETA-at/chartjs-web-component#readme",
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "chartjs-plugin-annotation": "^3.0.1",
+    "chartjs-plugin-autocolors": "^0.2.2",
+    "chartjs-plugin-zoom": "^2.0.1"
+  }
+}
