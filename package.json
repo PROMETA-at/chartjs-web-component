@@ -1,5 +1,5 @@
 {
-  "name": "@prometa/chartjs-web-component",
+  "name": "@prometa-at/chartjs-web-component",
   "version": "1.0.0",
   "description": "A web component wrapper for Chart.js, enabling easy integration of Chart.js charts using custom HTML elements.",
   "main": "src/index.js",
